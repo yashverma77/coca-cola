@@ -1,14 +1,14 @@
 //Constants Config
 const imageAlt = {
-  'assets/coke001.png': 'Classic Coca-Cola can',
-  'assets/coke002.png': 'Diet Coca-Cola can',
-  'assets/coke003.png': 'Coca-Cola Zero can',
+  'coke001.png': 'Classic Coca-Cola can',
+  'coke002.png': 'Diet Coca-Cola can',
+  'coke003.png': 'Coca-Cola Zero can',
 }
 
 const backgroundColors = {
-  'assets/coke001.png': 'var(--bg-primary-color)',
-  'assets/coke002.png': 'var(--bg-secondary-color)',
-  'assets/coke003.png': 'var(--bg-tertiary-color)',
+  'coke001.png': 'var(--bg-primary-color)',
+  'coke002.png': 'var(--bg-secondary-color)',
+  'coke003.png': 'var(--bg-tertiary-color)',
 }
 
 const validKeys = new Set;
